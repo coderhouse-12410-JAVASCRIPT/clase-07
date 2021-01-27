@@ -1,0 +1,30 @@
+[
+    {
+        "Nombre": "Ale",
+        "Fecha": "26/01/2021",
+        "Fecha2": "26/01/2021",
+        "DNI": 12312313,
+        "MuchosValores": [
+            "asdad",
+            3,
+            4,
+            5
+        ], 
+        "userProfile": {
+            "username": "alejandro_medici",
+            "email": "alejandro.medici@hotmail.com",
+            "id": 12313123123
+        }
+    },
+    {
+        "Nombre": "Antonio",
+        "Fecha": "26/01/2020",
+        "DNI": 1231212123,
+        "MuchosValores": [
+            "asdad",
+            3,
+            4,
+            5
+        ]
+    }
+]
